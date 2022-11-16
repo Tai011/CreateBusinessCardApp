@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CreateBusinessCardApp</string>
+
+    <string name="FullName">Full Name</string>
+    <string name="Title">Title</string>
+    <string name="phone">+00(00)000 000</string>
+    <string name="social"> t@socialmediahandle</string>
+    <string name="email">email@domain.com</string>
+</resources>
